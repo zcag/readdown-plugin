@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "readdown": {
+      "command": "npx",
+      "args": ["-y", "github:zcag/readdown-mcp"],
+      "description": "Fetch web pages and convert HTML to clean, LLM-optimized Markdown"
+    }
+  }
+}
